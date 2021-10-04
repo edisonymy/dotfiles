@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = edisonymy@gmail.com
+	name = Edison Yi
